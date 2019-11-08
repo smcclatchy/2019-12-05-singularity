@@ -1,20 +1,19 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""   
-venue: "R for Data Science"
-address: "The Jackson Laboratory, 600 Main Street, Bioinformatics Training Room, Bar Harbor ME"
+venue: "The Jackson Laboratory for Genomic Medicine"
+address: "10 Discovery Drive, Farmington, CT 06032"
 country: "us"
 language: "en"
-latlng: "44.365562,-68.196928"
-humandate: "Oct 17, 24, 31, Nov 7 & 14, 2019" 
-humantime: "9:00 am - 12:00 pm"
-startdate: 2019-10-17  
-enddate: 2019-11-14
-instructor: ["Sue McClatchy", "Stanley Yang", "Carolyn Paisie", "Andrew Deighan"]
-helper: ["Olaitan Awe"]
-email: ["susan.mcclatchy@jax.org"]
-collaborative_notes: https://pad.carpentries.org/2019-10-17-r4ds-bhct
-eventbrite: 75035941521
+latitude: "41.732631"
+longitude: "-72.793839"
+humandate: "December 5, 2019" 
+humantime: "9:00-12:00 pm"
+startdate: 2019-12-05
+enddate: 2019-12-05
+instructor: ["Shane Sanders", "Matt Bradley", "Aaron McDivitt"] 
+helper: ["Jason Macklin", "David McKenzie"]
+email: ["aaron.mcdivitt@jax.org"]
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
