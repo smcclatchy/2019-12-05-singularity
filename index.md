@@ -7,10 +7,10 @@ country: "us"
 language: "en"
 latitude: "41.732631"
 longitude: "-72.793839"
-humandate: "December 5, 2019" 
+humandate: "December 6, 2019" 
 humantime: "9:00-12:00 pm"
-startdate: 2019-12-05
-enddate: 2019-12-05
+startdate: 2019-12-06
+enddate: 2019-12-06
 instructor: ["Shane Sanders", "Matt Bradley", "Aaron McDivitt"] 
 helper: ["Jason Macklin", "David McKenzie"]
 email: ["aaron.mcdivitt@jax.org"]
