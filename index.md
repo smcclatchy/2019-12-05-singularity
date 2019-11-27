@@ -210,6 +210,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 2' to be actual dates or days of the week.
 {% endcomment %}
 <h2 id="schedule">Schedule</h2>
+---
 | Time  | Activity                              | Instructor                    |
 |-------|---------------------------------------|-------------------------------|
 | 9:00  | Introduction to Singularity           | Aaron McDivitt                |
@@ -217,6 +218,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 | 9:45  | Interactive Exploration of Containers | Aaron McDivitt & Matt Bradley |
 | 10:30 | Break                                 | --                            |
 | 10:50 | Build Your Own Containers Lesson      | Matt Bradley                  |
+---
 {% if site.carpentry == "swc" %}
 {% include swc/schedule.html %}
 {% elsif site.carpentry == "dc" %}
